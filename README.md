@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Grytle
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on any project as long as I can learn something
